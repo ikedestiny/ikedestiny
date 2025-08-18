@@ -61,7 +61,7 @@
   <a href="https://instagram.com/ikedestiny.dev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikedestiny.dev" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/codewithdestiny" target="blank">
+  <a href="https://www.youtube.com/codewithdestiny" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithdestiny" height="30" width="40" />
   </a>
 </p>
