@@ -13,11 +13,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ikedestiny](https://github.com/ikedestiny)
 
-- 📝 I regularly write articles on [TODO --> ikdestinyblog.vercel](TODO --> ikdestinyblog.vercel)
+- 📝 I regularly write articles on https://ikedestiny.onrender.com/blogs
+- 💬 Ask me about **Springboot, React, Java, programming concepts**
 
-- 💬 Ask me about **Springboot, React, Java, peogramming concepts**
-
-- 📫 How to reach me **gmail: ikedestiny18@gmail.com, telegram: ike_the_vinci, instagram: ikedestiny.dev**
+- 📫 How to reach me **gmail: ikedestiny18@gmail.com
 
 - 📄 Know about my experiences [https://ikedestiny.onrender.com/resume](https://ikedestiny.onrender.com/resume)
 
