@@ -14,8 +14,8 @@
 
 ## 🔥 Current Focus
 
-- 🚀 Building [QuizAi](https://github.com/ikedestiny/QuizAiBackend) - An AI-powered quiz platform
-- 🌱 Deepening my expertise in **Spring Boot, Kafka, and Machine Learning**
+- 🚀 Building [Doode](git@github.com:ikedestiny/doode.git) - A Multi-City African Online restaurants/kitchens platform
+- 🌱 Deepening my expertise in **Spring Boot, Docker, Posrtgres and Software Architecture**
 - 📝 Writing technical content on [my blog](https://ikedestiny.onrender.com/blogs)
 - 🎥 Creating programming tutorials on [YouTube](https://www.youtube.com/@codewithdestiny)
 
